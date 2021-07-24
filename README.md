@@ -16,11 +16,11 @@ navigate to /etc/X11/xorg.conf.d directory
 
 ## Step 2
 
-check if your find any nvidia.conf file in there, if you dont find any just run this command 
+check if your find any nvidia.conf file in there, if you dont find any just run this command in the terminal 
 	
 	nvidia-xconfig 
 
-in the terminal this will create a xorg.conf fill in the direcotry /etc/X11/xorg.conf.d
+This will create a xorg.conf file in the direcotry /etc/X11/xorg.conf.d
 
 ## Step 3
 
