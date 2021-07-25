@@ -1,6 +1,6 @@
 # My kde logout time fix:
 
-![ss](https://ps.w.org/pretty-link/assets/banner-772x250.png?rev=2503434)
+![ss](./src/imgs/logout_time_change.png)
 
 
 ---
