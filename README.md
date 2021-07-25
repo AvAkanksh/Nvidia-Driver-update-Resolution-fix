@@ -1,3 +1,9 @@
+# My kde logout time fix:
+
+![ss](https://ps.w.org/pretty-link/assets/banner-772x250.png?rev=2503434)
+
+
+---
 # Nvidia-Driver-update-Resolution-fix
 
 I know most of you might have run down the same problem when you have installed nvidia drivers on to your laptop mostly this problem comes to the linux user. it basically happens because the drivers mess with the DPI(DPI, or dots per inch, is a measure of the resolution of a printed document or digital scan. The higher the dot density, the higher the resolution of the print or scan. ) of the screen. So I have searched on net and came up with a small simple hack.
